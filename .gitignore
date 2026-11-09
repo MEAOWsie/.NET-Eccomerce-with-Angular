@@ -482,3 +482,8 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+API/wwwroot/
+API/appsettings.json
+pf.log
+socat.log
+nohup.out
